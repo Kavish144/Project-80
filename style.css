@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: #00ffff;
+}
+.row {
+    border:2px;
+    border-color: #000000;
+    border-style: solid;
+    margin-bottom: 20px;
+}
+#t1 {
+    font: 25px;
+}
